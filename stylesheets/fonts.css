@@ -66,3 +66,17 @@
   src: url("../fonts/Rubik/ttf/Rubik-Regular.ttf") format("ttf");
   src: url("../fonts/Rubik/woff/Rubik-Regular.woff") format("woff");
 }
+
+@font-face {
+  font-family: "GDisplay-Extended";
+
+  src: url("../fonts/g-display/ttf/GDisplay-Extended.ttf") format("ttf");
+  src: url("../fonts/g-display/otf/GDisplay-Extended.otf") format("otf");
+}
+
+@font-face {
+  font-family: "GDisplay-Regular";
+
+  src: url("../fonts/g-display/ttf/GDisplay-Regular.ttf") format("ttf");
+  src: url("../fonts/g-display/otf/GDisplay-Regular.otf") format("otf");
+}
