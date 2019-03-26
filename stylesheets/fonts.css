@@ -72,6 +72,7 @@
 
   src: url("../fonts/g_display/ttf/GDisplay-Extended.ttf") format("ttf");
   src: url("../fonts/g_display/otf/GDisplay-Extended.otf") format("otf");
+  src: url("../fonts/g_display/woff/GDisplay-Extended.woff") format("woff");
 }
 
 @font-face {
@@ -79,4 +80,5 @@
 
   src: url("../fonts/g_display/ttf/GDisplay-Regular.ttf") format("ttf");
   src: url("../fonts/g_display/otf/GDisplay-Regular.otf") format("otf");
+  src: url("../fonts/g_display/woff/GDisplay-Regular.woff") format("woff");
 }

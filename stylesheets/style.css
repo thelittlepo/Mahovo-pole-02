@@ -554,52 +554,58 @@ a:hover {
     flex-wrap: wrap;
   }
 
+  .sbpch h2 {
+    top: 5vw;
+    left: -4.1vw;
+
+    width: 50vw;
+
+    letter-spacing: 0.3em;
+
+    font-size: 4rem;
+
+    -webkit-text-stroke: 2px #fff;
+  }
+
   .sbpch img {
-    width: 40%;
-    margin-top: 5vw;
+    width: 20%;
+    margin-top: 7.5vw;
     margin-left: 10vw;
   }
 
   .sbpch h3 {
-    position: relative;
     top: 3vw;
-    left: 15vw;
+    left: 10vw;
 
     letter-spacing: 0.2em;
 
-    font-family: 'GDisplay-Extended';
-    font-size: 6rem;
+    font-size: 4.2rem;
 
     -webkit-text-stroke: 2px #fff;
   }
 
   .sbpch p {
-    position: relative;
     top: 5vw;
-    left: 19vw;
+    left: 10vw;
 
     width: 100%;
 
-    letter-spacing: 2.5vw;
+    letter-spacing: 0.8vw;
 
     color: #fff;
 
-    font-family: 'Rubik-Bold';
-    font-size: 4rem;
+    font-size: 2rem;
   }
 
   .ic3peak h2 {
     position: relative;
     z-index: 6;
-    top: 20vw;
-    left: 35vw;
+    top: -40.65vw;
+    left: 4vw;
 
     width: 55vw;
 
-    text-align: right;
-
-    font-family: 'GDisplay-Extended';
-    font-size: 8rem;
+    font-size: 4rem;
 
     -webkit-text-stroke: 2px #fff;
   }
@@ -607,38 +613,36 @@ a:hover {
   .ic3peak img {
     position: relative;
     z-index: 5;
-    top: -1vw;
-    left: 15vw;
+    top: -38vw;
+    left: 30vw;
 
-    width: 40%;
+    width: 25%;
   }
 
   .ic3peak h3 {
     position: relative;
-    top: 2vw;
-    left: 10vw;
+    top: -36.8vw;
+    left: 30vw;
 
     letter-spacing: 0.2em;
 
-    font-family: 'GDisplay-Extended';
-    font-size: 8rem;
+    font-size: 4.2rem;
 
     -webkit-text-stroke: 2px #fff;
   }
 
   .ic3peak p {
-    position: relative;
-    top: 5vw;
-    left: 10vw;
+    top: -34.6vw;
+    left: 29.5vw;
 
     width: 100%;
 
-    letter-spacing: 3vw;
+    letter-spacing: 0.8vw;
 
     color: #fff;
 
     font-family: 'Rubik-Bold';
-    font-size: 7rem;
+    font-size: 2rem;
   }
 
   .thewknd h2 {
@@ -649,13 +653,13 @@ a:hover {
     width: 110vw;
 
     text-align: left;
-    letter-spacing: 2vw;
+    letter-spacing: 0.2vw;
     text-transform: uppercase;
 
     color: transparent;
 
     font-family: 'GDisplay-Extended';
-    font-size: 8rem;
+    font-size: 4rem;
 
     -webkit-text-stroke: 2px #fff;
   }
