@@ -36,3 +36,5 @@ $(".cash-img").on("mouseover", function () {
 $(".cash-img).on("mouseleave", function () {
 	$(".hover").css("filter,"1");
 })
+
+$( ".date" ).append(  document.createTextNode( " – 02/02/19" ) );
