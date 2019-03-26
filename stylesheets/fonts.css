@@ -70,13 +70,13 @@
 @font-face {
   font-family: "GDisplay-Extended";
 
-  src: url("../fonts/g-display/ttf/GDisplay-Extended.ttf") format("ttf");
-  src: url("../fonts/g-display/otf/GDisplay-Extended.otf") format("otf");
+  src: url("../fonts/g_display/ttf/GDisplay-Extended.ttf") format("ttf");
+  src: url("../fonts/g_display/otf/GDisplay-Extended.otf") format("otf");
 }
 
 @font-face {
   font-family: "GDisplay-Regular";
 
-  src: url("../fonts/g-display/ttf/GDisplay-Regular.ttf") format("ttf");
-  src: url("../fonts/g-display/otf/GDisplay-Regular.otf") format("otf");
+  src: url("../fonts/g_display/ttf/GDisplay-Regular.ttf") format("ttf");
+  src: url("../fonts/g_display/otf/GDisplay-Regular.otf") format("otf");
 }
