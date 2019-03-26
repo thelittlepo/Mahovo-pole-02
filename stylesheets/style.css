@@ -753,7 +753,7 @@ a:hover {
   }
 
   .tommy img {
-    width: 55%;
+    width: 45%;
     margin-top: 35vw;
     margin-left: 8vw;
   }
@@ -775,8 +775,6 @@ a:hover {
     position: relative;
     top: 5vw;
     left: 20vw;
-
-    width: 100%;
 
     letter-spacing: 1vw;
 
