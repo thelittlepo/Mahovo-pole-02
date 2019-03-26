@@ -14,7 +14,7 @@ body {
 }
 
 .main {
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .main img {
@@ -555,57 +555,57 @@ a:hover {
   }
 
   .sbpch h2 {
-    top: 5vw;
-    left: -4.1vw;
+    top: 8vw;
+    left: 2.1vw;
 
     width: 50vw;
 
     letter-spacing: 0.3em;
 
-    font-size: 4rem;
+    font-size: 7rem;
 
     -webkit-text-stroke: 2px #fff;
   }
 
   .sbpch img {
-    width: 20%;
-    margin-top: 7.5vw;
-    margin-left: 10vw;
+    width: 40%;
+    margin-top: 4.5vw;
+    margin-left: 18vw;
   }
 
   .sbpch h3 {
     top: 3vw;
-    left: 10vw;
+    left: 30vw;
 
-    letter-spacing: 0.2em;
+    letter-spacing: 0.5em;
 
-    font-size: 4.2rem;
+    font-size: 7rem;
 
     -webkit-text-stroke: 2px #fff;
   }
 
   .sbpch p {
     top: 5vw;
-    left: 10vw;
+    left: 30vw;
 
     width: 100%;
 
-    letter-spacing: 0.8vw;
+    letter-spacing: 1vw;
 
     color: #fff;
 
-    font-size: 2rem;
+    font-size: 5rem;
   }
 
   .ic3peak h2 {
     position: relative;
     z-index: 6;
-    top: -40.65vw;
-    left: 4vw;
+    top: 18vw;
+    left: 40vw;
 
-    width: 55vw;
+    width: 30vw;
 
-    font-size: 4rem;
+    font-size: 7rem;
 
     -webkit-text-stroke: 2px #fff;
   }
@@ -613,115 +613,99 @@ a:hover {
   .ic3peak img {
     position: relative;
     z-index: 5;
-    top: -38vw;
-    left: 30vw;
+    top: 15vw;
+    left: 15vw;
 
-    width: 25%;
+    width: 70%;
   }
 
   .ic3peak h3 {
     position: relative;
-    top: -36.8vw;
-    left: 30vw;
+    top: 18vw;
+    left: 10vw;
 
     letter-spacing: 0.2em;
 
-    font-size: 4.2rem;
+    font-size: 7rem;
 
     -webkit-text-stroke: 2px #fff;
   }
 
   .ic3peak p {
-    top: -34.6vw;
-    left: 29.5vw;
+    top: 20.6vw;
+    left: 10vw;
 
     width: 100%;
 
     letter-spacing: 0.8vw;
 
-    color: #fff;
-
-    font-family: 'Rubik-Bold';
-    font-size: 2rem;
+    font-size: 4rem;
   }
 
   .thewknd h2 {
     position: relative;
-    top: 20vw;
-    left: 7vw;
+    top: 35vw;
+    left: -5vw;
 
-    width: 110vw;
+    width: 50vw;
 
     text-align: left;
     letter-spacing: 0.2vw;
     text-transform: uppercase;
 
-    color: transparent;
-
-    font-family: 'GDisplay-Extended';
-    font-size: 4rem;
-
-    -webkit-text-stroke: 2px #fff;
+    font-size: 7rem;
   }
 
   .thewknd img {
-    width: 40%;
-    margin-top: 10vw;
+    width: 55%;
+    margin-top: 30vw;
     margin-left: 10vw;
   }
 
   .thewknd h3 {
     position: relative;
-    top: 5vw;
-    left: 20vw;
+    top: 3vw;
+    left: 30vw;
 
     letter-spacing: 0.2em;
 
-    font-family: 'GDisplay-Extended';
     font-size: 8rem;
 
-    -webkit-text-stroke: 2px #fff;
   }
 
   .thewknd p {
     position: relative;
-    top: 10vw;
-    left: 20vw;
+    top: 5vw;
+    left: 30vw;
 
     width: 100%;
 
-    letter-spacing: 2.5vw;
+    letter-spacing: 1vw;
 
-    color: #fff;
-
-    font-family: 'Rubik-Bold';
-    font-size: 7rem;
+    font-size: 4rem;
   }
 
   .tatu h2 {
     position: relative;
     z-index: 6;
-    top: 25vw;
-    left: 45vw;
+    top: 20vw;
+    left: 36vw;
 
-    width: 50vw;
+    width: 30vw;
 
     text-align: right;
     letter-spacing: 0.1em;
 
-    font-family: 'GDisplay-Extended';
-    font-size: 16rem;
-
-    -webkit-text-stroke: 2px #fff;
+    font-size: 7rem;
   }
 
   .tatu img {
     position: relative;
     z-index: 5;
     top: 15vw;
-    left: 15vw;
+    left: 25vw;
 
-    width: 80%;
+    width: 50%;
   }
 
   .tatu h3 {
@@ -731,25 +715,22 @@ a:hover {
 
     letter-spacing: 0.2em;
 
-    font-family: 'GDisplay-Extended';
-    font-size: 16rem;
-
-    -webkit-text-stroke: 2px #fff;
+    font-size: 7rem;
   }
 
   .tatu p {
     position: relative;
     top: 25vw;
-    left: 10vw;
+    left: 5vw;
 
-    width: 100%;
+    width: 80%;
 
     letter-spacing: 3vw;
 
     color: #fff;
 
     font-family: 'Rubik-Bold';
-    font-size: 7rem;
+    font-size: 4rem;
   }
 
   .tommy h2 {
@@ -757,7 +738,7 @@ a:hover {
     top: 40vw;
     left: 8vw;
 
-    width: 110vw;
+    width: 60vw;
 
     text-align: left;
     letter-spacing: 0.1em;
@@ -766,42 +747,42 @@ a:hover {
     color: transparent;
 
     font-family: 'GDisplay-Extended';
-    font-size: 16rem;
+    font-size: 7rem;
 
     -webkit-text-stroke: 2px #fff;
   }
 
   .tommy img {
-    width: 75%;
-    margin-top: 30vw;
+    width: 55%;
+    margin-top: 35vw;
     margin-left: 8vw;
   }
 
   .tommy h3 {
     position: relative;
-    top: -5vw;
-    left: 18vw;
+    top: 2vw;
+    left: 35vw;
 
     letter-spacing: 0.1em;
 
     font-family: 'GDisplay-Extended';
-    font-size: 16rem;
+    font-size: 7rem;
 
     -webkit-text-stroke: 2px #fff;;
   }
 
   .tommy p {
     position: relative;
-    top: -2vw;
+    top: 5vw;
     left: 20vw;
 
     width: 100%;
 
-    letter-spacing: 2.5vw;
+    letter-spacing: 1vw;
 
     color: #fff;
 
     font-family: 'Rubik-Bold';
-    font-size: 7rem;
+    font-size: 4rem;
   }
 }
