@@ -278,7 +278,7 @@ a:hover {
 
 .thewknd h2 {
   position: relative;
-  top: 25vw;
+  top: 20vw;
   left: 7vw;
 
   width: 110vw;
@@ -297,7 +297,7 @@ a:hover {
 
 .thewknd img {
   width: 75%;
-  margin-top: 15vw;
+  margin-top: 10vw;
   margin-left: 10vw;
 }
 
@@ -332,7 +332,7 @@ a:hover {
 .tatu h2 {
   position: relative;
   z-index: 6;
-  top: 30vw;
+  top: 25vw;
   left: 45vw;
 
   width: 50vw;
@@ -349,7 +349,7 @@ a:hover {
 .tatu img {
   position: relative;
   z-index: 5;
-  top: 20vw;
+  top: 15vw;
   left: 15vw;
 
   width: 80%;
@@ -357,7 +357,7 @@ a:hover {
 
 .tatu h3 {
   position: relative;
-  top: 25vw;
+  top: 20vw;
   left: 8vw;
 
   letter-spacing: 0.2em;
@@ -370,7 +370,7 @@ a:hover {
 
 .tatu p {
   position: relative;
-  top: 30vw;
+  top: 25vw;
   left: 10vw;
 
   width: 100%;
@@ -385,7 +385,7 @@ a:hover {
 
 .tommy h2 {
   position: relative;
-  top: 50vw;
+  top: 40vw;
   left: 8vw;
 
   width: 110vw;
@@ -404,13 +404,13 @@ a:hover {
 
 .tommy img {
   width: 75%;
-  margin-top: 40vw;
+  margin-top: 30vw;
   margin-left: 8vw;
 }
 
 .tommy h3 {
   position: relative;
-  top: 1vw;
+  top: -5vw;
   left: 18vw;
 
   letter-spacing: 0.1em;
@@ -423,7 +423,7 @@ a:hover {
 
 .tommy p {
   position: relative;
-  top: 5vw;
+  top: -2vw;
   left: 20vw;
 
   width: 100%;
