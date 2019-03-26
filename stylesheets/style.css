@@ -176,7 +176,7 @@ a:hover {
   top: 5vw;
   left: 1.3vw;
 
-  width: 55vw;
+  width: 50vw;
 
   letter-spacing: 0.3em;
   text-transform: uppercase;
@@ -210,12 +210,12 @@ a:hover {
 
 .sbpch p {
   position: relative;
-  top: -28vw;
-  left: 4.8vw;
+  top: 5vw;
+  left: 19vw;
 
   width: 100%;
 
-  letter-spacing: 3vw;
+  letter-spacing: 2.5vw;
 
   color: #fff;
 
@@ -226,7 +226,7 @@ a:hover {
 .ic3peak h2 {
   position: relative;
   z-index: 6;
-  top: -15vw;
+  top: 20vw;
   left: 35vw;
 
   width: 55vw;
@@ -242,7 +242,7 @@ a:hover {
 .ic3peak img {
   position: relative;
   z-index: 5;
-  top: -25vw;
+  top: -1vw;
   left: 15vw;
 
   width: 75%;
@@ -250,7 +250,7 @@ a:hover {
 
 .ic3peak h3 {
   position: relative;
-  top: -20vw;
+  top: 2vw;
   left: 10vw;
 
   letter-spacing: 0.2em;
@@ -263,8 +263,8 @@ a:hover {
 
 .ic3peak p {
   position: relative;
-  top: -50vw;
-  left: 0.5vw;
+  top: 5vw;
+  left: 10vw;
 
   width: 100%;
 
@@ -278,8 +278,8 @@ a:hover {
 
 .thewknd h2 {
   position: relative;
-  top: -35vw;
-  left: 5vw;
+  top: 25vw;
+  left: 7vw;
 
   width: 110vw;
 
@@ -297,7 +297,7 @@ a:hover {
 
 .thewknd img {
   width: 75%;
-  margin-top: -45vw;
+  margin-top: 15vw;
   margin-left: 10vw;
 }
 
@@ -316,8 +316,8 @@ a:hover {
 
 .thewknd p {
   position: relative;
-  top: -25vw;
-  left: 7vw;
+  top: 10vw;
+  left: 20vw;
 
   width: 100%;
 
@@ -332,7 +332,7 @@ a:hover {
 .tatu h2 {
   position: relative;
   z-index: 6;
-  top: -10vw;
+  top: 30vw;
   left: 45vw;
 
   width: 50vw;
@@ -349,7 +349,7 @@ a:hover {
 .tatu img {
   position: relative;
   z-index: 5;
-  top: -20vw;
+  top: 20vw;
   left: 15vw;
 
   width: 80%;
@@ -357,7 +357,7 @@ a:hover {
 
 .tatu h3 {
   position: relative;
-  top: -15vw;
+  top: 25vw;
   left: 8vw;
 
   letter-spacing: 0.2em;
@@ -370,8 +370,8 @@ a:hover {
 
 .tatu p {
   position: relative;
-  top: -45vw;
-  left: -3vw;
+  top: 30vw;
+  left: 10vw;
 
   width: 100%;
 
@@ -385,7 +385,7 @@ a:hover {
 
 .tommy h2 {
   position: relative;
-  top: -30vw;
+  top: 50vw;
   left: 8vw;
 
   width: 110vw;
@@ -404,13 +404,13 @@ a:hover {
 
 .tommy img {
   width: 75%;
-  margin-top: -40vw;
+  margin-top: 40vw;
   margin-left: 8vw;
 }
 
 .tommy h3 {
   position: relative;
-  top: 5vw;
+  top: 1vw;
   left: 18vw;
 
   letter-spacing: 0.1em;
@@ -423,8 +423,8 @@ a:hover {
 
 .tommy p {
   position: relative;
-  top: -25vw;
-  left: 5vw;
+  top: 5vw;
+  left: 20vw;
 
   width: 100%;
 
